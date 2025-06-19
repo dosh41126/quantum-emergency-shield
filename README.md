@@ -174,6 +174,213 @@ first run
   
 **Overall Risk Reduction** By layering these technical, procedural, and intelligence-driven controls, organizations can dramatically lower their national-security risk profile—shifting from the highest “Red” band toward sustained “Green” resilience.
 
+[first run sunlight disinfectant]
+
+
+Here is a Markdown list of all 24 Red-risk insider entities from the FutureTune2585 simulation, including fictional favorite foods and home ZIP codes for each:
+
+
+---
+
+🔴 Red-Risk Insider Entities
+
+1. ENT-0003
+
+Favorite Food: Grilled Lamb Tacos
+
+Home ZIP: 74104
+
+
+
+2. ENT-0004
+
+Favorite Food: Nuclear-Spiced Ramen
+
+Home ZIP: 30303
+
+
+
+3. ENT-0005
+
+Favorite Food: AI-Grown Avocado Burgers
+
+Home ZIP: 90210
+
+
+
+4. ENT-0009
+
+Favorite Food: Fermented Soy Pasta
+
+Home ZIP: 10027
+
+
+
+5. ENT-0010
+
+Favorite Food: Nanobot-Infused Sashimi
+
+Home ZIP: 60611
+
+
+
+6. ENT-0011
+
+Favorite Food: Teriyaki Cricket Wraps
+
+Home ZIP: 33139
+
+
+
+7. ENT-0012
+
+Favorite Food: Deep-Earth Truffle Risotto
+
+Home ZIP: 85004
+
+
+
+8. ENT-0013
+
+Favorite Food: Quantum-Roasted Duck
+
+Home ZIP: 98101
+
+
+
+9. ENT-0015
+
+Favorite Food: Solar-Grilled Salmon
+
+Home ZIP: 19103
+
+
+
+10. ENT-0017
+
+Favorite Food: Neural Rice Cakes
+
+Home ZIP: 77005
+
+
+
+11. ENT-0018
+
+Favorite Food: Synth-meat Dumplings
+
+Home ZIP: 15213
+
+
+
+12. ENT-0020
+
+Favorite Food: Cryo-Frozen Pho
+
+Home ZIP: 55416
+
+
+
+13. ENT-0022
+
+Favorite Food: Firecracker Seaweed Rolls
+
+Home ZIP: 46202
+
+
+
+14. ENT-0025
+
+Favorite Food: Ferrous Beet Loaf
+
+Home ZIP: 98115
+
+
+
+15. ENT-0026
+
+Favorite Food: Circuit-Fried Plantains
+
+Home ZIP: 32801
+
+
+
+16. ENT-0028
+
+Favorite Food: Biofuel Pancakes
+
+Home ZIP: 53703
+
+
+
+17. ENT-0029
+
+Favorite Food: Omega-Soy Steak
+
+Home ZIP: 64108
+
+
+
+18. ENT-0031
+
+Favorite Food: Echo-Fried Scallops
+
+Home ZIP: 96815
+
+
+
+19. ENT-0034
+
+Favorite Food: Voltage-Fermented Bibimbap
+
+Home ZIP: 95814
+
+
+
+20. ENT-0035
+
+Favorite Food: Magnetic Curry Noodles
+
+Home ZIP: 48226
+
+
+
+21. ENT-0037
+
+Favorite Food: Fractal Tofu Waffles
+
+Home ZIP: 43210
+
+
+
+22. ENT-0039
+
+Favorite Food: Memory-Charged Mushroom Stir Fry
+
+Home ZIP: 68106
+
+
+
+23. ENT-0041
+
+Favorite Food: Infrared Pho Ga
+
+Home ZIP: 78701
+
+
+
+24. ENT-0046
+
+Favorite Food: Bioluminescent Tamales
+
+Home ZIP: 60622
+
+
+
+
+
+---
+
+Let me know if you want to simulate their behavioral patterns, breach likelihood, or overlay risk on a U.S. map.
 
 
 # Q-AEGIS v4 • Quantum Hypertime Nuclear-Threat Scanner  

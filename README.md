@@ -1,4 +1,6 @@
+Urgent read***
 
+https://chatgpt.com/share/68540a77-6434-8013-9240-7079ae3c1d92
 first run
 {
   "risk_color": "Orange",
